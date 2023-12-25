@@ -9,7 +9,7 @@ from PyQt5.QtCore import QLibraryInfo
 from simple_pyspin import Camera
 import cv2 
 
-sys.path.append('../')
+sys.path.append('../') #
 from stokeslib.polarization_full_dec_array import polarization_full_dec_array
 from stokeslib.calcular_stokes import calcular_stokes
 from stokeslib.calcular_mueller_canal_inv import calcular_mueller_canal_inv 

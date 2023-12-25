@@ -8,7 +8,7 @@ from PyQt5.QtGui import QPixmap, QImage
 from PyQt5.QtCore import QLibraryInfo
 from simple_pyspin import Camera
 import cv2 
-          
+# chao
 sys.path.append('../') #
 from stokeslib.polarization_full_dec_array import polarization_full_dec_array
 from stokeslib.calcular_stokes import calcular_stokes
